@@ -1,0 +1,15 @@
+
+# Raw datasets - keep local
+data/
+
+# Local configuration and credentials
+.env
+.env.*
+*.local
+
+# Temporary files
+*.tmp
+*.log
+
+# VS Code local workspace settings
+.vscode/
