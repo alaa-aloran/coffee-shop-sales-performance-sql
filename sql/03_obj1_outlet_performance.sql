@@ -3,7 +3,7 @@
 -- OBJECTIVE 1: Evaluate Outlet Sales Performance
 -- Goal: Assess differences in revenue, transaction activity, and sales trends across the three outlets.
 -- == == == == == == == == == == == == == == == == == == == == == == == == == =
--- QUERY 1: Outlet Performance Comparison
+-- QUERY 1.1: Outlet Performance Comparison
 -- Business Question 1:
 -- How do outlets compare in net sales, transaction volume, and average paid transaction value?
 -- == == == == == == == == == == == == == == == == == == == == == == == == == =
@@ -40,7 +40,7 @@ ORDER BY total_net_sales DESC;
  Note: IDR = Indonesian Rupiah (Indonesia's official currency).
  */
 -- == == == == == == == == == == == == == == == == == == == == == == == == == =
--- QUERY 2: Monthly Sales Trends
+-- QUERY 1.2: Monthly Sales Trends
 -- Business Question 2:
 -- How did monthly net sales and paid transaction activity
 -- change across the three outlets?
