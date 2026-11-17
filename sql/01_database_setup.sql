@@ -1,5 +1,5 @@
 -- =====================================================
--- Coffee Shop Sales & Operational Performance
+-- PROJECT: Coffee Shop Sales & Operational Performance
 -- Database: coffee_shop_performance
 -- Purpose: Create the transaction-level POS table
 -- =====================================================

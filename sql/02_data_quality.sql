@@ -1,6 +1,5 @@
 -- =====================================================
--- Coffee Shop Sales & Operational Performance
--- Database: coffee_shop_performance
+-- PROJECT: Coffee Shop Sales & Operational Performance
 -- PURPOSE: Profile transaction data completeness
 -- =====================================================
 -- CHECK 1: Transaction Record Validation
